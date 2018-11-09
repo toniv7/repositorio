@@ -12,3 +12,9 @@ En los tres documentos he copiado código RTF
 -El archivo xml lo he abierto con el navegador y no me ha mostrado nada.
 
 
+B) Omple un repositori GitHub:
+
+he creado una cuenta de Github y he verificado:
+seguidamente he accedido a mi cuenta.
+He creado un repositorio con el nombre repositorio.
+Y finalmente he subido los tres archivos (codi.rtf, codi.xml y codi.html).
