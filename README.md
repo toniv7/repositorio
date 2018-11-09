@@ -15,20 +15,20 @@ En los tres documentos he copiado código RTF
 
 
 B) Omple un repositori GitHub:
-
+------------------------------
 he creado una cuenta de Github y he verificado:
 seguidamente he accedido a mi cuenta.
 He creado un repositorio con el nombre repositorio.
 Y finalmente he subido los tres archivos (codi.rtf, codi.xml y codi.html).
 
 C)Omple un repositori GitHub:
-
+-----------------------------
 he copiado https://github.com/toniv7/repositorio/blob/master/codi%20html.html en https://raw.githack.com/ y el enlace del recuadro "Use this URL for development" apuntaba al archivo codi.html
 
 D) Edita README.md explicant el que has fet
-
+--------------------------------------------
 He editado el archivo README.md para mostrar el aspecto actual.
 
 E) Quan ho hagis completat, envia l'enllaç del teu repositori (fes l'entrega)
-
+-----------------------------------------------------------------------------
 https://github.com/toniv7/repositorio
