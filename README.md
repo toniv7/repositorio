@@ -26,3 +26,5 @@ he copiado https://github.com/toniv7/repositorio/blob/master/codi%20html.html en
 D) Edita README.md explicant el que has fet
 
 He editado el archivo README.md para mostrar el aspecto actual.
+
+E) Quan ho hagis completat, envia l'enllaç del teu repositori (fes l'entrega)
