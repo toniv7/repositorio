@@ -24,4 +24,5 @@ C)Omple un repositori GitHub:
 he copiado https://github.com/toniv7/repositorio/blob/master/codi%20html.html en https://raw.githack.com/ y el enlace del recuadro "Use this URL for development" apuntaba al archivo codi.html
 
 D) Edita README.md explicant el que has fet
+
 He editado el archivo README.md para mostrar el aspecto actual.
